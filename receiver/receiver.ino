@@ -3,6 +3,13 @@
 //
 //MODIFICATIONS MADE BY: JRC - Tech OCT-2020
 
+//The transmitter was tested with 12V and antenna (a piece of wire about 21cm)
+//The communication was verified from one room to the next, even between walls.
+//If the transmitter is powered with 5V the range is reduced.
+
+//Receiver was also tested with antenna
+
+
 int i, good, k;
 byte data_in;
 void setup(){
