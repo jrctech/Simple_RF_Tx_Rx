@@ -17,11 +17,6 @@ void loop(){
   
 }//loop
 
-
-
-
-
-
 void data_incoming(){
     
     
